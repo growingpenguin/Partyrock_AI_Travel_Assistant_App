@@ -10,3 +10,5 @@ Built entirely without writing code, this project leveraged AWS PartyRock’s dr
  <br/>
 I gained the knowledge and skills necessary to develop this application during AWS Universe Day at AWS Korea Headquarters, hosted by Nxt Cloud <br/>
 During this event, I learned how to effectively utilize PartyRock for building generative AI applications, enabling me to create this project from the ground up <br/>
+
+## Demo Video
