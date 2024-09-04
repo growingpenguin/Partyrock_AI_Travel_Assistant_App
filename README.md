@@ -12,3 +12,4 @@ I gained the knowledge and skills necessary to develop this application during A
 During this event, I learned how to effectively utilize PartyRock for building generative AI applications, enabling me to create this project from the ground up <br/>
 
 ## Demo Video
+https://drive.google.com/file/d/146_x7zJU_gmqsjmJ05zK5tWz9B3Bdb0F/view?usp=sharing <br/>
