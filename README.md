@@ -1,4 +1,6 @@
 # Partyrock_AI_Travel_Assistant_App
+## Overview
+![Travel_Partyrock1](https://github.com/user-attachments/assets/0280574e-a171-4990-829a-a2267a61c45c) <br/>
 I developed an AI Travel Assistant App using AWS PartyRock, designed to help users plan customized trips with ease <br/>
 The app allows users to input essential travel details such as destination, travel duration, and specific interests (e.g., bakery tours), and in turn, it generates personalized travel itineraries <br/> 
 Through intuitive widgets like text inputs for trip details and a chatbot for real-time interaction, users can receive tailored recommendations, such as the best bakeries in Paris <br/>
